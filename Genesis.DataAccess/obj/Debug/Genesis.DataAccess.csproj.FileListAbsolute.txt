@@ -1,0 +1,39 @@
+C:\Users\Pandita\Documents\Visual Studio 2008\Projects\GenesisApp\Genesis.DataAccess\bin\Debug\Genesis.DataAccess.dll
+C:\Users\Pandita\Documents\Visual Studio 2008\Projects\GenesisApp\Genesis.DataAccess\bin\Debug\Genesis.DataAccess.pdb
+C:\Users\Pandita\Documents\Visual Studio 2008\Projects\GenesisApp\Genesis.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pandita\Documents\Visual Studio 2008\Projects\GenesisApp\Genesis.DataAccess\obj\Debug\Genesis.DataAccess.dll
+C:\Users\Pandita\Documents\Visual Studio 2008\Projects\GenesisApp\Genesis.DataAccess\obj\Debug\Genesis.DataAccess.pdb
+C:\Users\aldojmb\SHIELD\GENESIS\GenesisApp1\genesis app 1\Genesis.DataAccess\bin\Debug\Genesis.DataAccess.dll
+C:\Users\aldojmb\SHIELD\GENESIS\GenesisApp1\genesis app 1\Genesis.DataAccess\bin\Debug\Genesis.DataAccess.pdb
+C:\Users\aldojmb\SHIELD\GENESIS\GenesisApp1\genesis app 1\Genesis.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aldojmb\SHIELD\GENESIS\GenesisApp1\genesis app 1\Genesis.DataAccess\obj\Debug\Genesis.DataAccess.dll
+C:\Users\aldojmb\SHIELD\GENESIS\GenesisApp1\genesis app 1\Genesis.DataAccess\obj\Debug\Genesis.DataAccess.pdb
+C:\Users\aldojmb\SHIELD\GENESIS\GenesisApp1OLD\genesis app 1\Genesis.DataAccess\bin\Debug\Genesis.DataAccess.dll
+C:\Users\aldojmb\SHIELD\GENESIS\GenesisApp1OLD\genesis app 1\Genesis.DataAccess\bin\Debug\Genesis.DataAccess.pdb
+C:\Users\aldojmb\SHIELD\GENESIS\GenesisApp1OLD\genesis app 1\Genesis.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aldojmb\SHIELD\GENESIS\GenesisApp1OLD\genesis app 1\Genesis.DataAccess\obj\Debug\Genesis.DataAccess.dll
+C:\Users\aldojmb\SHIELD\GENESIS\GenesisApp1OLD\genesis app 1\Genesis.DataAccess\obj\Debug\Genesis.DataAccess.pdb
+C:\Users\aldojmb\SHIELD\GENESIS\GenesisApp1OLD\genesis app 1\Genesis.DataAccess\bin\Debug\Genesis.SystemFrameworks.dll
+C:\Users\aldojmb\SHIELD\GENESIS\GenesisApp1OLD\genesis app 1\Genesis.DataAccess\bin\Debug\Genesis.SystemFrameworks.pdb
+C:\Users\Mauricio\Desktop\genesis app 1\Genesis.DataAccess\bin\Debug\Genesis.DataAccess.dll
+C:\Users\Mauricio\Desktop\genesis app 1\Genesis.DataAccess\bin\Debug\Genesis.DataAccess.pdb
+C:\Users\Mauricio\Desktop\genesis app 1\Genesis.DataAccess\bin\Debug\Genesis.SystemFrameworks.dll
+C:\Users\Mauricio\Desktop\genesis app 1\Genesis.DataAccess\bin\Debug\Genesis.SystemFrameworks.pdb
+C:\Users\Mauricio\Desktop\genesis app 1\Genesis.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mauricio\Desktop\genesis app 1\Genesis.DataAccess\obj\Debug\Genesis.DataAccess.dll
+C:\Users\Mauricio\Desktop\genesis app 1\Genesis.DataAccess\obj\Debug\Genesis.DataAccess.pdb
+C:\Users\Mauricio\Desktop\genesis app 1\genesis app 1\Genesis.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mauricio\Desktop\genesis app 1\genesis app 1\Genesis.DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Mauricio\Desktop\genesis app 1\genesis app 1\Genesis.DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Mauricio\Desktop\genesis app 1\genesis app 1\Genesis.DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Mauricio\Desktop\genesis app 1\genesis app 1\Genesis.DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\aldojmb\Desktop\genesis app 1\Genesis.DataAccess\bin\Debug\DataAccess.dll
+C:\Users\aldojmb\Desktop\genesis app 1\Genesis.DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\aldojmb\Desktop\genesis app 1\Genesis.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aldojmb\Desktop\genesis app 1\Genesis.DataAccess\obj\Debug\DataAccess.dll
+C:\Users\aldojmb\Desktop\genesis app 1\Genesis.DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\aldojmb\Desktop\ESCRITORIO\genesis app 1 - copia\Genesis.DataAccess\bin\Debug\DataAccess.dll
+C:\Users\aldojmb\Desktop\ESCRITORIO\genesis app 1 - copia\Genesis.DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\aldojmb\Desktop\ESCRITORIO\genesis app 1 - copia\Genesis.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aldojmb\Desktop\ESCRITORIO\genesis app 1 - copia\Genesis.DataAccess\obj\Debug\DataAccess.dll
+C:\Users\aldojmb\Desktop\ESCRITORIO\genesis app 1 - copia\Genesis.DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,25 @@
+C:\Users\aldojmb\SHIELD\GENESIS\GenesisApp1OLD\genesis app 1\Genesis.SystemFrameworks\bin\Debug\Genesis.SystemFrameworks.dll
+C:\Users\aldojmb\SHIELD\GENESIS\GenesisApp1OLD\genesis app 1\Genesis.SystemFrameworks\bin\Debug\Genesis.SystemFrameworks.pdb
+C:\Users\aldojmb\SHIELD\GENESIS\GenesisApp1OLD\genesis app 1\Genesis.SystemFrameworks\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aldojmb\SHIELD\GENESIS\GenesisApp1OLD\genesis app 1\Genesis.SystemFrameworks\obj\Debug\Genesis.SystemFrameworks.dll
+C:\Users\aldojmb\SHIELD\GENESIS\GenesisApp1OLD\genesis app 1\Genesis.SystemFrameworks\obj\Debug\Genesis.SystemFrameworks.pdb
+C:\Users\Mauricio\Desktop\genesis app 1\Genesis.SystemFrameworks\bin\Debug\Genesis.SystemFrameworks.dll
+C:\Users\Mauricio\Desktop\genesis app 1\Genesis.SystemFrameworks\bin\Debug\Genesis.SystemFrameworks.pdb
+C:\Users\Mauricio\Desktop\genesis app 1\Genesis.SystemFrameworks\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mauricio\Desktop\genesis app 1\Genesis.SystemFrameworks\obj\Debug\Genesis.SystemFrameworks.dll
+C:\Users\Mauricio\Desktop\genesis app 1\Genesis.SystemFrameworks\obj\Debug\Genesis.SystemFrameworks.pdb
+C:\Users\Mauricio\Desktop\genesis app 1\genesis app 1\Genesis.SystemFrameworks\bin\Debug\Genesis.SystemFrameworks.dll
+C:\Users\Mauricio\Desktop\genesis app 1\genesis app 1\Genesis.SystemFrameworks\bin\Debug\Genesis.SystemFrameworks.pdb
+C:\Users\Mauricio\Desktop\genesis app 1\genesis app 1\Genesis.SystemFrameworks\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mauricio\Desktop\genesis app 1\genesis app 1\Genesis.SystemFrameworks\obj\Debug\Genesis.SystemFrameworks.dll
+C:\Users\Mauricio\Desktop\genesis app 1\genesis app 1\Genesis.SystemFrameworks\obj\Debug\Genesis.SystemFrameworks.pdb
+C:\Users\aldojmb\Desktop\genesis app 1\Genesis.SystemFrameworks\bin\Debug\Genesis.SystemFrameworks.dll
+C:\Users\aldojmb\Desktop\genesis app 1\Genesis.SystemFrameworks\bin\Debug\Genesis.SystemFrameworks.pdb
+C:\Users\aldojmb\Desktop\genesis app 1\Genesis.SystemFrameworks\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aldojmb\Desktop\genesis app 1\Genesis.SystemFrameworks\obj\Debug\Genesis.SystemFrameworks.dll
+C:\Users\aldojmb\Desktop\genesis app 1\Genesis.SystemFrameworks\obj\Debug\Genesis.SystemFrameworks.pdb
+C:\Users\aldojmb\Desktop\ESCRITORIO\genesis app 1 - copia\Genesis.SystemFrameworks\bin\Debug\Genesis.SystemFrameworks.dll
+C:\Users\aldojmb\Desktop\ESCRITORIO\genesis app 1 - copia\Genesis.SystemFrameworks\bin\Debug\Genesis.SystemFrameworks.pdb
+C:\Users\aldojmb\Desktop\ESCRITORIO\genesis app 1 - copia\Genesis.SystemFrameworks\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aldojmb\Desktop\ESCRITORIO\genesis app 1 - copia\Genesis.SystemFrameworks\obj\Debug\Genesis.SystemFrameworks.dll
+C:\Users\aldojmb\Desktop\ESCRITORIO\genesis app 1 - copia\Genesis.SystemFrameworks\obj\Debug\Genesis.SystemFrameworks.pdb

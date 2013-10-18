@@ -1,0 +1,30 @@
+C:\Users\Mauricio\Desktop\genesis app 1\genesis app 1\GenesisApp1\bin\GenesisApp1.dll
+C:\Users\Mauricio\Desktop\genesis app 1\genesis app 1\GenesisApp1\bin\GenesisApp1.pdb
+C:\Users\Mauricio\Desktop\genesis app 1\genesis app 1\GenesisApp1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mauricio\Desktop\genesis app 1\genesis app 1\GenesisApp1\obj\Debug\GenesisApp1.dll
+C:\Users\Mauricio\Desktop\genesis app 1\genesis app 1\GenesisApp1\obj\Debug\GenesisApp1.pdb
+C:\Users\Mauricio\Desktop\last\genesis app 1\genesis app 1\GenesisApp1\bin\GenesisApp1.dll
+C:\Users\Mauricio\Desktop\last\genesis app 1\genesis app 1\GenesisApp1\bin\GenesisApp1.pdb
+C:\Users\Mauricio\Desktop\last\genesis app 1\genesis app 1\GenesisApp1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mauricio\Desktop\last\genesis app 1\genesis app 1\GenesisApp1\obj\Debug\GenesisApp1.dll
+C:\Users\Mauricio\Desktop\last\genesis app 1\genesis app 1\GenesisApp1\obj\Debug\GenesisApp1.pdb
+C:\Users\aldojmb\Desktop\genesis app 1\GenesisApp1\bin\GenesisApp1.dll
+C:\Users\aldojmb\Desktop\genesis app 1\GenesisApp1\bin\GenesisApp1.pdb
+C:\Users\aldojmb\Desktop\genesis app 1\GenesisApp1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aldojmb\Desktop\genesis app 1\GenesisApp1\obj\Debug\GenesisApp1.dll
+C:\Users\aldojmb\Desktop\genesis app 1\GenesisApp1\obj\Debug\GenesisApp1.pdb
+C:\Users\aldojmb\Desktop\ESCRITORIO\genesis app 1 - copia\GenesisApp1\bin\GenesisApp1.dll
+C:\Users\aldojmb\Desktop\ESCRITORIO\genesis app 1 - copia\GenesisApp1\bin\GenesisApp1.pdb
+C:\Users\aldojmb\Desktop\ESCRITORIO\genesis app 1 - copia\GenesisApp1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aldojmb\Desktop\ESCRITORIO\genesis app 1 - copia\GenesisApp1\obj\Debug\GenesisApp1.dll
+C:\Users\aldojmb\Desktop\ESCRITORIO\genesis app 1 - copia\GenesisApp1\obj\Debug\GenesisApp1.pdb
+C:\Users\Renton\Desktop\genesis app 1 - copia\GenesisApp1\bin\GenesisApp1.dll
+C:\Users\Renton\Desktop\genesis app 1 - copia\GenesisApp1\bin\GenesisApp1.pdb
+C:\Users\Renton\Desktop\genesis app 1 - copia\GenesisApp1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Renton\Desktop\genesis app 1 - copia\GenesisApp1\obj\Debug\GenesisApp1.dll
+C:\Users\Renton\Desktop\genesis app 1 - copia\GenesisApp1\obj\Debug\GenesisApp1.pdb
+C:\Users\aldojmb\Desktop\genesis app 1 - copia\GenesisApp1\bin\GenesisApp1.dll
+C:\Users\aldojmb\Desktop\genesis app 1 - copia\GenesisApp1\bin\GenesisApp1.pdb
+C:\Users\aldojmb\Desktop\genesis app 1 - copia\GenesisApp1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aldojmb\Desktop\genesis app 1 - copia\GenesisApp1\obj\Debug\GenesisApp1.dll
+C:\Users\aldojmb\Desktop\genesis app 1 - copia\GenesisApp1\obj\Debug\GenesisApp1.pdb

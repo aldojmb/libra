@@ -1,0 +1,18 @@
+/***** check-box *****/
+li.check { width: auto;}
+li.check br { margin-bottom: 10px;}
+label.check { float: left; font-weight: bold; padding-right: 10px;}
+input[type=checkbox].check {display: none;}
+input[type=checkbox].check + label { 
+	background: #fff; 
+	display: inline-block; 
+	width: 16px; 
+	height: 16px; 
+	background: url(images/check.png) 0px 0px no-repeat; 
+	text-indent: -1000em; 
+}
+
+input[type=checkbox].check:checked + label { background: url(images/check.png) 0px -16px no-repeat;}
+
+/*<input type="checkbox" name="check_02_02" id="check_02_02" value="1" class="check" />
+<label for="check_02_02">Opción</label>*/

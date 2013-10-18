@@ -1,0 +1,264 @@
+﻿<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CA32CE0F-0C43-40C2-B7CC-ECA783606DE6}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GenesisApp1</RootNamespace>
+    <AssemblyName>GenesisApp1</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkSubset>
+    </TargetFrameworkSubset>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\blank.gif" />
+    <Content Include="images\bg.jpg" />
+    <Content Include="images\box_bg.gif" />
+    <Content Include="images\box_bgBACK.gif" />
+    <Content Include="images\genesis.png" />
+    <Content Include="images\header_bg.gif" />
+    <Content Include="images\login.gif" />
+    <Content Include="images\Logo.png" />
+    <Content Include="images\menu_bt.gif" />
+    <Content Include="images\mini.png" />
+    <Content Include="images\miniGene.png" />
+    <Content Include="images\pattern_bg.gif" />
+    <Content Include="images\refresh.gif" />
+    <Content Include="images\save.gif" />
+    <Content Include="images\sign_up.gif" />
+    <Content Include="images\trash.gif" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminPolizas.aspx.cs">
+      <DependentUpon>AdminPolizas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminPolizas.aspx.designer.cs">
+      <DependentUpon>AdminPolizas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Agentes.aspx.cs">
+      <DependentUpon>Agentes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Agentes.aspx.designer.cs">
+      <DependentUpon>Agentes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Cobros.aspx.cs">
+      <DependentUpon>Cobros.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Cobros.aspx.designer.cs">
+      <DependentUpon>Cobros.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DecSiniestro.aspx.cs">
+      <DependentUpon>DecSiniestro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DecSiniestro.aspx.designer.cs">
+      <DependentUpon>DecSiniestro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Elements.cs" />
+    <Compile Include="notas.aspx.cs">
+      <DependentUpon>notas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="notas.aspx.designer.cs">
+      <DependentUpon>notas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OrdenAdmision.aspx.cs">
+      <DependentUpon>OrdenAdmision.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OrdenAdmision.aspx.designer.cs">
+      <DependentUpon>OrdenAdmision.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RepSiniestro.aspx.cs">
+      <DependentUpon>RepSiniestro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RepSiniestro.aspx.designer.cs">
+      <DependentUpon>RepSiniestro.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\GenesisApp1.dll" />
+    <Content Include="bin\GenesisApp1.pdb" />
+    <Content Include="Scripts\js\ajax.js" />
+    <Content Include="Scripts\js\Asegurados.js" />
+    <Content Include="Scripts\js\generals.js" />
+    <Content Include="Scripts\js\jquery-1.7.1.min.js" />
+    <Content Include="Scripts\js\jquery-ui-1.8.17.custom.min.js" />
+    <Content Include="Scripts\js\sesionManager.js" />
+    <Content Include="Scripts\js\workarea.js" />
+    <Content Include="style.css" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AdminPolizas.aspx" />
+    <Content Include="Agentes.aspx" />
+    <Content Include="Aseguradora.aspx" />
+    <Content Include="Asegurados.aspx" />
+    <Content Include="Cancelar.aspx" />
+    <Content Include="Catalogos.aspx" />
+    <Content Include="Cobros.aspx" />
+    <Content Include="DecSiniestro.aspx" />
+    <Content Include="notas.aspx" />
+    <Content Include="OrdenAdmision.aspx" />
+    <Content Include="PaseMedico.aspx" />
+    <Content Include="DecSiniestro2.aspx" />
+    <Content Include="RepSiniestro.aspx" />
+    <Content Include="RepSiniestro2.aspx" />
+    <Content Include="RepContactos.aspx" />
+    <Content Include="Personas.aspx" />
+    <Content Include="images\clo_1.png" />
+    <Content Include="images\clo_2.png" />
+    <Content Include="images\ni.png" />
+    <Content Include="Renovar.aspx" />
+    <Content Include="PrintPoliza.aspx" />
+    <Content Include="Emitir.aspx" />
+    <Content Include="images\eye.png" />
+    <Content Include="images\find.gif" />
+    <Content Include="Default.aspx" />
+    <Content Include="images\+.png" />
+    <Content Include="images\add.gif" />
+    <Content Include="images\arrow.gif" />
+    <Content Include="images\ase.gif" />
+    <Content Include="images\auto.gif" />
+    <Content Include="images\bg-scrollbar-thumb-y.png" />
+    <Content Include="images\bg-scrollbar-track-y.png" />
+    <Content Include="images\bg-scrollbar-trackend-y.png" />
+    <Content Include="images\calc.gif" />
+    <Content Include="images\clean.gif" />
+    <Content Include="images\equip.gif" />
+    <Content Include="images\export.gif" />
+    <Content Include="images\header.gif" />
+    <Content Include="images\header_over.gif" />
+    <Content Include="images\key.gif" />
+    <Content Include="images\no.gif" />
+    <Content Include="images\ojo.png" />
+    <Content Include="images\people.gif" />
+    <Content Include="images\people2.gif" />
+    <Content Include="images\print.gif" />
+    <Content Include="images\Renovar.png" />
+    <Content Include="images\save_add.gif" />
+    <Content Include="images\upload.gif" />
+    <Content Include="images\vehiculo.png" />
+    <Content Include="images\x.png" />
+    <Content Include="images\yes.png" />
+    <Content Include="Requisitos.aspx" />
+    <Content Include="Scripts\js\1.7.2_jquery.min.js" />
+    <Content Include="Scripts\js\coin-slider.js" />
+    <Content Include="Scripts\js\Funciones.js" />
+    <Content Include="Scripts\js\jquery-1.4.2.min.js" />
+    <Content Include="Scripts\js\jquery-1.7.2.js" />
+    <Content Include="Scripts\js\jquery.tinyscrollbar.min.js" />
+    <Content Include="Scripts\js\jquery.ui.core.js" />
+    <Content Include="Scripts\js\jquery.ui.datepicker.js" />
+    <Content Include="Scripts\js\jquery.ui.widget.js" />
+    <Content Include="Scripts\js\script_menu.js" />
+    <Content Include="Simulador.aspx" />
+    <Content Include="Solicitud.aspx" />
+    <Content Include="styles\check.css" />
+    <Content Include="styles\coin-slider-styles.css" />
+    <Content Include="styles\demos.css" />
+    <Content Include="styles\file-upload.css" />
+    <Content Include="styles\iecss.css" />
+    <Content Include="styles\images\check.png" />
+    <Content Include="styles\images\ui-bg_diagonals-thick_75_f3d8d8_40x40.png" />
+    <Content Include="styles\images\ui-bg_dots-small_65_a6a6a6_2x2.png" />
+    <Content Include="styles\images\ui-bg_flat_0_333333_40x100.png" />
+    <Content Include="styles\images\ui-bg_flat_65_ffffff_40x100.png" />
+    <Content Include="styles\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="styles\images\ui-bg_glass_55_fbf8ee_1x400.png" />
+    <Content Include="styles\images\ui-bg_highlight-hard_100_eeeeee_1x100.png" />
+    <Content Include="styles\images\ui-bg_highlight-hard_100_f6f6f6_1x100.png" />
+    <Content Include="styles\images\ui-bg_highlight-soft_15_cc0000_1x100.png" />
+    <Content Include="styles\images\ui-icons_004276_256x240.png" />
+    <Content Include="styles\images\ui-icons_cc0000_256x240.png" />
+    <Content Include="styles\images\ui-icons_ffffff_256x240.png" />
+    <Content Include="styles\jquery-ui-1.8.21.custom.css" />
+    <Content Include="styles\jquery.ui.all.css" />
+    <Content Include="styles\style_menu.css" />
+    <Content Include="styles\website.css" />
+    <Content Include="Template.aspx" />
+    <Content Include="Vehiculos.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="images\autos\" />
+    <Folder Include="obj\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v9.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>50653</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>
